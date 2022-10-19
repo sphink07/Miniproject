@@ -202,11 +202,9 @@
                   </v-col>
                   <v-col cols="2">
                     <p style="font-size: 30px" class="white--text">
-                      
                       <span style="font-size: 30px; color: gold">{{
                         this.LVF
                       }}</span>
-                      
                     </p>
                   </v-col>
                   <v-col cols="5">
